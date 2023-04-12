@@ -11,7 +11,7 @@ Problem statement:
 Approach:
 - Understanding the data set
 - Cleaning the data
-- Ensuring the balanced data set
+Ensuring the balanced data set
                                |
                                ---- If unbalanced
                                                   |
