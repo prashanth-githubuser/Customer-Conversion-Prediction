@@ -22,5 +22,5 @@ Ensuring the balanced data set
 - Selecting the one model based on the performance
 - Hyperpameter tuning for selected model to improve the performance
 - Evaluation
-- Deploying the model in streamlit
+- Deploying the model in streamlit (optional)
 
